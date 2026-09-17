@@ -1,4 +1,3 @@
-@"
 target/
 node_modules/
 dist/
@@ -8,4 +7,3 @@ dist/
 .idea/
 .vscode/
 *.iml
-"@ | Out-File -Encoding utf8 .gitignore
